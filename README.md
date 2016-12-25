@@ -4,7 +4,7 @@
 - NEW:
  - Generic C# Mapper
  - This is free generic C# object mapper allowing for mapping SQL query result to .NET client object.
- - <strong>UPLOADED 2016-12-25 14:36:00 GMT +01:00 [FEATURE]</strong>
+ - <strong>UPLOADED 2016-12-25 14:36:00 GMT +01:00 [LIBRARY]</strong>
  -
 
 ## [SoftwareDevelopment.Programming.CSharp.Utilities] 
