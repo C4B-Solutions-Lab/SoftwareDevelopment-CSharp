@@ -1,10 +1,18 @@
 # Dabrowski Software Development [ C# ]
 
+## [SoftwareDevelopment.Programming.CSharp.ObjectMapper]
 - NEW:
+ - Generic C# Mapper
+ - This is free generic C# object mapper allowing for mapping SQL query result to .NET client object.
+ - <strong>UPLOADED 2016-12-25 13:45:00 GMT +01:00 [FEATURE]</strong>
+ -
+
+## [SoftwareDevelopment.Programming.CSharp.Utilities] 
+- OLD:
+- [WindowsUtils]:
  - *#impresonation: added security feature*
  - <strong>UPLOADED 2016-09-04 13:10:00 GMT +01:00 [FEATURE]</strong>
- - 
-- OLD:
+ -
  - [ProcessUtils]:
  - *#running process in an asynchronous way.*
  - <strong>UPLOADED 2016-06-24 13:23:00 GMT +01:00 [BUG FIX]</strong>
