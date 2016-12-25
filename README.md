@@ -38,7 +38,7 @@
 #License: [MIT]:
  - [http://www.opensource.org/licenses/mit-license.php]
 
-#Description: [C# library consisting of various util classes for common day-to-day tasks]:
+#Description: [C# libraries consisting of various util classes for common day-to-day tasks]:
 
 # This library can be downloaded free of charge and be distributed, further modified and used for commercial gain according to MIT licence, that is shipped with this project.
   
