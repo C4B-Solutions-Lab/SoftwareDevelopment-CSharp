@@ -1,12 +1,14 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-CSharp/blob/master/github_json2sql.png"></img>
 # [ C# ]
-
+#
+#
 ## [SoftwareDevelopment.Programming.CSharp.ObjectMapper]
 ### NEW:
  - Generic C# Mapper
  - This is a free generic C# object mapper allowing for mapping SQL query result to .NET client object.
  - <strong>UPLOADED 2016-12-25 14:36:00 GMT +01:00 [LIBRARY]</strong>
-
+#
+#
 ## [SoftwareDevelopment.Programming.CSharp.Utilities] 
 ### OLD:
 - [WindowsUtils]:
@@ -50,4 +52,4 @@
 
 #### In order to use Excel util class, please download and install drivers from this Microsoft site https://www.microsoft.com/en-us/download/details.aspx?id=13255 in case you have no Microsoft Office product installed.
 
-### <strong>UPDATED 2017-06-08 15:26:00 GMT +01:00</strong>
+### <strong>UPDATED 2017-06-08 15:28:00 GMT +01:00</strong>
