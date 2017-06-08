@@ -50,4 +50,4 @@
 
 #### In order to use Excel util class, please download and install drivers from this Microsoft site https://www.microsoft.com/en-us/download/details.aspx?id=13255 in case you have no Microsoft Office product installed.
 
-### <strong>UPDATED 2017-06-08 15:24:00 GMT +01:00</strong>
+### <strong>UPDATED 2017-06-08 15:26:00 GMT +01:00</strong>
