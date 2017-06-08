@@ -1,16 +1,14 @@
-# Dabrowski Software Development [ C# ]
+<img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-CSharp/blob/master/github_json2sql.png"></img>
+# [ C# ]
 
 ## [SoftwareDevelopment.Programming.CSharp.ObjectMapper]
-- NEW:
+### NEW:
  - Generic C# Mapper
  - This is a free generic C# object mapper allowing for mapping SQL query result to .NET client object.
  - <strong>UPLOADED 2016-12-25 14:36:00 GMT +01:00 [LIBRARY]</strong>
- -
--
--
 
 ## [SoftwareDevelopment.Programming.CSharp.Utilities] 
-- OLD:
+### OLD:
 - [WindowsUtils]:
  - *#impresonation: added security feature*
  - <strong>UPLOADED 2016-09-04 13:10:00 GMT +01:00 [FEATURE]</strong>
@@ -37,18 +35,19 @@
  - <strong>UPLOADED</strong>
  -
 
-#License: [MIT]:
+### License: [MIT]:
  - [http://www.opensource.org/licenses/mit-license.php]
 
-#Description: [C# libraries consisting of various util classes for common day-to-day tasks]:
+### Description: [C# libraries consisting of various util classes for common day-to-day tasks]:
 
-# This library can be downloaded free of charge and be distributed, further modified and used for commercial gain according to MIT licence, that is shipped with this project.
+#### This library can be downloaded free of charge and be distributed, further modified and used for commercial gain according to MIT licence, that is shipped with this project.
   
-# This source code requires .NET 4.0 Framework to be installed on the target machine to be successfully compiled.
+#### This source code requires .NET 4.0 Framework to be installed on the target machine to be successfully compiled.
 
-# There is also attached compiled version of this library in this repo in the form of zip file, that is shipped with other required files, plus xml schema for VS IntelliSense. Name of zip file: SoftwareDevelopment.zip
+#### There is also attached compiled version of this library in this repo in the form of zip file, that is shipped with other required files, plus xml schema for VS IntelliSense. Name of zip file: SoftwareDevelopment.zip
 
-# If you have any (negative/positive) feedback, do not hesitate to contact me @ contact@lukaszdabrowski.com
+#### If you have any (negative/positive) feedback, do not hesitate to contact me @ contact@lukaszdabrowski.com
 
-# In order to use Excel util class, please download and install drivers from this Microsoft site https://www.microsoft.com/en-us/download/details.aspx?id=13255 in case you have no Microsoft Office product installed.
+#### In order to use Excel util class, please download and install drivers from this Microsoft site https://www.microsoft.com/en-us/download/details.aspx?id=13255 in case you have no Microsoft Office product installed.
 
+### <strong>UPDATED 2017-06-08 15:24:00 GMT +01:00</strong>
