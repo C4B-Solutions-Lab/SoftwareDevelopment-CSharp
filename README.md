@@ -47,8 +47,8 @@
 
 #### There is also attached compiled version of this library in this repo in the form of zip file, that is shipped with other required files, plus xml schema for VS IntelliSense. Name of zip file: SoftwareDevelopment.zip
 
-#### If you have any (negative/positive) feedback, do not hesitate to contact me @ lukkasz.dabrowski@gmail.com
+#### If you have any (negative/positive) feedback, do not hesitate to contact us @ email.c4b.solutions.lab@gmail.com
 
 #### In order to use Excel util class, please download and install drivers from this Microsoft site https://www.microsoft.com/en-us/download/details.aspx?id=13255 in case you have no Microsoft Office product installed.
 
-### <strong>UPDATED 2017-06-08 15:29:00 GMT +01:00</strong>
+### <strong>UPDATED 2020-04-06 12:14 PM GMT</strong>
