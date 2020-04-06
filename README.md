@@ -1,4 +1,3 @@
-<img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-CSharp/blob/master/github_json2sql.png"></img>
 # [ C# ]
 #
 #
